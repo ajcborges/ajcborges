@@ -1,7 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ajcborges&label=Profile%20views&color=0e75b6&style=flat" alt="ajcborges" /> </p>
 
 # About Me:
-Hi there! I'm a DevSecOps enthusiast with a strong focus on **Cloud Security**, **Infrastructure as Code**, and **Digital Transformation**. I thrive in environments where automation, scalability, and security intersect. <br><br>
+Hi there, I am [Alfredo Cedeno](https://alfredo.cedeno.me) 👋 <br>
+I'm a DevSecOps enthusiast with a strong focus on **Cloud Security**, **Infrastructure as Code**, and **Digital Transformation**. I thrive in environments where automation, scalability, and security intersect. <br>
 
 ## 🔧 What I'm Working On
 - 👨🏻‍💻 Currently serving as a **Cloud Security Engineer**, integrating security into CI/CD pipelines and cloud-native architectures
